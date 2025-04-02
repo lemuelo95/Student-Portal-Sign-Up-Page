@@ -1,6 +1,5 @@
 import { useState } from "react";
 import logo from './assets/student-sitting.svg'
-import { Label } from "@/components/ui/label"
 import { FaEye, FaEyeSlash } from 'react-icons/fa'
 
 export default function AuthForm() {
